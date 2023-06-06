@@ -7,12 +7,12 @@
 
 # Chromadb
 # https://docs.trychroma.com/
-#Chroma is the open-source embedding database. Chroma makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs.
+# Chroma is the open-source embedding database. Chroma makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs.
 pip install chromadb
 
 # Langchain
 # https://python.langchain.com/en/latest/getting_started/getting_started.html
-#LangChain is a framework for developing applications powered by language models. 
+# LangChain is a framework for developing applications powered by language models. 
 pip install langchain
 
 # LlamaIndex
@@ -24,6 +24,9 @@ pip install llama-index
 # install Dot ENV
 # https://pypi.org/project/python-dotenv/
 pip install python-dotenv
+
+# Install PDF interpreter module
+pip install pypdf
 
 # install pytorch
 # https://pytorch.org/get-started/locally/#linux-pip
